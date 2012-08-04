@@ -1,0 +1,4 @@
+/* ignoring vim files */ 
+*.swp
+*.swo
+*.swn
